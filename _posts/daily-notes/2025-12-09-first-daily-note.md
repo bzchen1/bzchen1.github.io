@@ -1,5 +1,5 @@
 ---
-title: 第一篇每日笔记
+title: 每日笔记test
 date: 2025-12-08 12:00:00 +0800
 categories: [Blogging, Daily Notes]
 tags: [daily-note]
