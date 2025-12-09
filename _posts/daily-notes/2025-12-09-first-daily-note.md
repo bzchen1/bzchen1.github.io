@@ -1,6 +1,6 @@
 ---
 title: 第一篇每日笔记
-date: 2025-12-09 12:00:00 +0800
+date: 2025-12-08 12:00:00 +0800
 categories: [Blogging, Daily Notes]
 tags: [daily-note]
 ---
