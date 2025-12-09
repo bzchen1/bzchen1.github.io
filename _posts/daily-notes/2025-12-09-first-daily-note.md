@@ -14,5 +14,6 @@ tags: [daily-note]
 - 如何在 Jekyll 中添加新分类
 - 如何使用 GitHub Actions 部署博客
 
-图片test:
+图片 test:
+截图复制到粘贴板，ctrl + alt + u 即可
 ![20251210001703](https://cdn.jsdelivr.net/gh/bzchen1/blog-image/img/${year}/${month}/20251210001703.png)
