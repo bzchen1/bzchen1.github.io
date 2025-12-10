@@ -1,6 +1,6 @@
 ---
 title: 多模态大模型学习计划（Stage 1）
-date: 2025-12-10 20:00:00 +0800
+date: 2025-12-10 10:00:00 +0800
 categories: [AI Learning, Study Plan]
 tags: [roadmap, study-plan, multimodal-llm]
 math: false
