@@ -2129,9 +2129,9 @@ W_b = np.linalg.pinv(X_b.T@X_b) @ X_b.T @ y
 3. 特征工程（多项式回归） 
     - 示例：$y = ax^2 + bx + c$ -> 构造新特征$x_1 = x, x_2 = x^2$
 4. 正则化 *"防止过拟合”或者“L2惩罚系数λ"*
-    - ![image.png](attachment:image.png)
+    - ![20260121194825](https://cdn.jsdelivr.net/gh/bzchen1/blog-image/img/${year}/${month}/20260121194825.png)
 5. 梯度求解：
-    - ![image-2.png](attachment:image-2.png)
+    - ![20260121194850](https://cdn.jsdelivr.net/gh/bzchen1/blog-image/img/${year}/${month}/20260121194850.png)
 
 6. 梯度问题
     - 数据归一化？
