@@ -1,0 +1,13 @@
+---
+title: 每日笔记test
+date: 2026-3-19 12:00:00 +0800
+categories: [Blogging, Daily Notes]
+tags: [daily-note]
+---
+
+1. 格式化format：
+  - 法1：安装python格式化相关的工具包autopep8工具包
+    - 先用`pip list`查看，再用`pip install autopep8`
+  - 法2：下载插件Black Formatter
+    - 还不行就`pip install black`
+  **局部格式化：选中代码，按下shift+alt+f**
